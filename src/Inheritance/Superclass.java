@@ -11,7 +11,7 @@ class Superclass {
 class dad extends Superclass{
 	String name = "dad";
 	void superparent() {
-		System.out.println("this is dad");
+		System.out.println("this is dad and test");
 	}
 }
 
