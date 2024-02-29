@@ -39,7 +39,7 @@ class Aa extends Interfacepractise1 implements intf, Interfacepractise112{
 		System.out.println("the value of bc " +bc);
 	}
 }
-/*
+
 class Interfacepractise{
 	public static void main(String args[]) {
 		Aa a= new Aa();
@@ -50,4 +50,4 @@ class Interfacepractise{
 	
 	
 	}
-}*/
+}
