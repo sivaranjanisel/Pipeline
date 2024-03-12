@@ -6,7 +6,7 @@ import java.util.List;
 /*
 2
 
-ArrayList - is class implemeted List interface
+ArrayList - is class implemented List interface
 -----
 1) Heterogenious data - allowed
 2) Insertion order- preserved(Index)

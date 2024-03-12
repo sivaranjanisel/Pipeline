@@ -36,7 +36,7 @@ class Aa extends Interfacepractise1 implements intf, Interfacepractise112{
 		System.out.println("this is child of static interface");
 	}
 	public void show() {
-		System.out.println("the value of bc " +bc);
+		System.out.println("the value of bc from show() " +bc);
 	}
 }
 
